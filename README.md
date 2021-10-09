@@ -34,3 +34,18 @@ Here are two examples visualized by blender:
 
 <img src="images/pcvt4_1.png" width="400px">
 <img src="images/pcvt4_2.png" width="400px">
+
+## pcvt5
+
+Similar to pcvt3.
+
+<img src="images/pcvt5.png" width="400px">
+
+## pcvt6
+
+pcvt6 use blender script to render point cloud. You can adjust the color of the point cloud and the radius of the point. Maybe you also need to rotate the point cloud by rotation matrix. In order to render the point cloud, please run `render_pc.sh`. Here are visualizing results:
+
+<img src="images/pcvt6_1.png" width="500px">
+<img src="images/pcvt6_2.png" width="500px">
+<img src="images/pcvt6_3.png" width="500px">
+<img src="images/pcvt6_4.png" width="500px">
